@@ -47,7 +47,7 @@ void handleRoot() {
     <title>DOOR Control</title>
 </head>
 <body>
-    <h1>GARA DOOR MONITOR</h1>
+    <h1>DOOR MONITOR</h1>
 
     <input type="password" id="pin" placeholder="Enter PIN">
     <button onclick="login()">LOGIN</button>
